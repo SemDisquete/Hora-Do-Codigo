@@ -1,4 +1,4 @@
-# Hora do Código: Meteor.
+# Hora do Código: Meteor
 
 Estudo do Meteor por meio do livro Discover Meteor.
 
