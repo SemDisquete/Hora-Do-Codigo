@@ -10,22 +10,9 @@ Estudo do Meteor por meio do livro Discover Meteor.
 
 ### Antes de Começar
 
-* Crie um Branch neste projeto com o seu username.
-* O comando
-```sh
-mrt
-```
-foi **DESCONTINUADO** e substituído por 
-```sh
-meteor
-```
-.
-
-* O arquivo 
-```sh
-smart.json
-```
-**NÃO** faz mais parte da estrutura básica do projeto.
+* **CRIE** um branch neste projeto com o seu username.
+* O comando `mrt` foi **DESCONTINUADO** e substituído por `meteor`.
+* O arquivo `smart.json`, **NÃO** faz mais parte da estrutura básica do projeto.
 
 ### Livro
 
