@@ -24,9 +24,9 @@ Estudo do Meteor por meio do livro Discover Meteor.
 
 2. <strike>[Começando com Meteor](http://pt.discovermeteor.com/chapters/getting-started/)</strike> - **Concluído: 01/06/15**
 
-3. <strike>[Deployment](http://pt.discovermeteor.com/chapters/deploying/)</strike> - **Concluído: 02/06/15
+3. <strike>[Deployment](http://pt.discovermeteor.com/chapters/deploying/)</strike> - **Concluído: 02/06/15**
 
-4. <strike>[Templates] (http://pt.discovermeteor.com/chapters/templates/)</strike> - **Concluído: 02/06/15
+4. <strike>[Templates] (http://pt.discovermeteor.com/chapters/templates/)</strike> - **Concluído: 02/06/15**
 
 5. [Git & GitHub] (http://pt.discovermeteor.com/chapters/github/)
 
