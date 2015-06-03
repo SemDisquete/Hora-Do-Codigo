@@ -1,5 +1,5 @@
 /**
- * Created by Fernando on 02/06/2015.
+ * Created by Fernando on 02/06/2015 .
  */
 Template.postItem.helpers({
     domain: function() {
