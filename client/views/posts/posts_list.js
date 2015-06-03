@@ -1,6 +1,3 @@
-/**
- * Created by HelderJefferson on 02/06/2015.
- */
 var postsData = [
     {
         title: 'Introducing Telescope',
@@ -18,6 +15,9 @@ var postsData = [
         url: 'http://themeteorbook.com'
     }
 ];
-Template.postsList.helpers({
+
+Template.postList.helpers({
     posts: postsData
 });
+
+
