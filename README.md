@@ -6,8 +6,8 @@ Estudo do Meteor por meio do livro Discover Meteor.
 
 * [Git](https://git-scm.com/downloads)
 * [Meteor](https://www.meteor.com/install)
-* [Sublime Text](http://www.sublimetext.com/2) (Opcional)
 * [WebStorm IDE](https://www.jetbrains.com/webstorm/) (Opcional)
+* [Sublime Text 2](http://www.sublimetext.com/2) (for Lovers! ...Grrr!)
 * [GitHub Desktop](https://windows.github.com/) (Opcional)
 
 ### Antes de Começar
