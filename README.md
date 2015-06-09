@@ -1,8 +1,10 @@
-# Hora do Código: Meteor
+# Hora do Cï¿½digo: Meteor
+
+[![Join the chat at https://gitter.im/SemDisquete/Hora-Do-Codigo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SemDisquete/Hora-Do-Codigo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Estudo do Meteor por meio do livro Discover Meteor.
 
-### Pré-Requisitos
+### Prï¿½-Requisitos
 
 * [Git](https://git-scm.com/downloads)
 * [Meteor](https://www.meteor.com/install)
@@ -10,31 +12,31 @@ Estudo do Meteor por meio do livro Discover Meteor.
 * [Sublime Text 2](http://www.sublimetext.com/2) (for Lovers! ...Grrr!)
 * [GitHub Desktop](https://windows.github.com/) (Opcional)
 
-### Antes de Começar
+### Antes de Comeï¿½ar
 
 * **CRIE** um branch neste projeto com o seu username.
-* O comando `mrt` foi **DESCONTINUADO** e substituído por `meteor`.
-* O arquivo `smart.json`, **NÃO** faz mais parte da estrutura básica do projeto.
+* O comando `mrt` foi **DESCONTINUADO** e substituï¿½do por `meteor`.
+* O arquivo `smart.json`, **Nï¿½O** faz mais parte da estrutura bï¿½sica do projeto.
 
 ### Livro
 
 * [Discover Meteor](http://pt.discovermeteor.com)
 
-### Tópicos de Estudo
+### Tï¿½picos de Estudo
 
-1. <strike>[Introdução](http://pt.discovermeteor.com/chapters/introduction/)</strike> - **Concluído: 01/06/15**
+1. <strike>[Introduï¿½ï¿½o](http://pt.discovermeteor.com/chapters/introduction/)</strike> - **Concluï¿½do: 01/06/15**
 
-2. <strike>[Começando com Meteor](http://pt.discovermeteor.com/chapters/getting-started/)</strike> - **Concluído: 01/06/15**
+2. <strike>[Comeï¿½ando com Meteor](http://pt.discovermeteor.com/chapters/getting-started/)</strike> - **Concluï¿½do: 01/06/15**
 
-3. <strike>[Deployment](http://pt.discovermeteor.com/chapters/deploying/)</strike> - **Concluído: 02/06/15**
+3. <strike>[Deployment](http://pt.discovermeteor.com/chapters/deploying/)</strike> - **Concluï¿½do: 02/06/15**
 
-4. <strike>[Templates] (http://pt.discovermeteor.com/chapters/templates/)</strike> - **Concluído: 02/06/15**
+4. <strike>[Templates] (http://pt.discovermeteor.com/chapters/templates/)</strike> - **Concluï¿½do: 02/06/15**
 
 5. [Git & GitHub] (http://pt.discovermeteor.com/chapters/github/)
 
 6. [Collections] (http://pt.discovermeteor.com/chapters/collections/)
 
-7. [Publicações e Subscrições] (http://pt.discovermeteor.com/chapters/publications-and-subscriptions/)
+7. [Publicaï¿½ï¿½es e Subscriï¿½ï¿½es] (http://pt.discovermeteor.com/chapters/publications-and-subscriptions/)
 
 **Todos retirados do livro Discover Meteor de [Tom Coleman](http://tom.thesnail.org/) e [Sacha Greif](http://sachagreif.com/) e traduzido pela comunidades Discover Meteor.
 
