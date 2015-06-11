@@ -32,9 +32,9 @@ Estudo do Meteor por meio do livro Discover Meteor.
 
 4. <strike>[Templates] (http://pt.discovermeteor.com/chapters/templates/)</strike> - **Concluï¿½do: 02/06/15**
 
-5. [Git & GitHub] (http://pt.discovermeteor.com/chapters/github/)
+5. <strike>[Git & GitHub] (http://pt.discovermeteor.com/chapters/github/)</strike> - **Concluído: 08/06/15**
 
-6. [Collections] (http://pt.discovermeteor.com/chapters/collections/)
+6. <strike>[Collections] (http://pt.discovermeteor.com/chapters/collections/)</strike> - **Concluído: 09/06/15**
 
 7. [Publicaï¿½ï¿½es e Subscriï¿½ï¿½es] (http://pt.discovermeteor.com/chapters/publications-and-subscriptions/)
 
