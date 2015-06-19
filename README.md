@@ -10,11 +10,11 @@ Estudo do Meteor por meio do livro Discover Meteor.
 * [Sublime Text 2](http://www.sublimetext.com/2) (for Lovers! ...Grrr!)
 * [GitHub Desktop](https://windows.github.com/) (Opcional)
 
-### Antes de Comeï¿½ar
+### Antes de Começar
 
 * **CRIE** um branch neste projeto com o seu username.
-* O comando `mrt` foi **DESCONTINUADO** e substituï¿½do por `meteor`.
-* O arquivo `smart.json`, **Nï¿½O** faz mais parte da estrutura bï¿½sica do projeto.
+* O comando `mrt` foi **DESCONTINUADO** e substituído por `meteor`.
+* O arquivo `smart.json`, **NÃO** faz mais parte da estrutura básica do projeto.
 
 ### Livro
 
