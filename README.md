@@ -33,7 +33,11 @@ Estudo do Meteor por meio do livro Discover Meteor.
 
 6. <strike>[Collections] (http://pt.discovermeteor.com/chapters/collections/)</strike> - **Concluído: 09/06/15**
 
-7. [Publicações e Subscrições] (http://pt.discovermeteor.com/chapters/publications-and-subscriptions/)
+7. <strike>[Publicações e Subscrições] (http://pt.discovermeteor.com/chapters/publications-and-subscriptions/)</strike> - **Conclusão: 11/06/2015**
+
+8. <Strike>[Rotas] (http://pt.discovermeteor.com/chapters/routing/)</strike> - **Conclusão: 18/06/2015**
+
+9. [A Sessão] (http://pt.discovermeteor.com/chapters/the-session/)
 
 **Todos retirados do livro Discover Meteor de [Tom Coleman](http://tom.thesnail.org/) e [Sacha Greif](http://sachagreif.com/) e traduzido pela comunidades Discover Meteor.
 
